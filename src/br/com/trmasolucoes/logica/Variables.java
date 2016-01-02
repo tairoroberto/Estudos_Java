@@ -1,3 +1,5 @@
+package br.com.trmasolucoes.logica;
+
 /**
  * Created by tairo on 02/01/16.
  * * Study variables
