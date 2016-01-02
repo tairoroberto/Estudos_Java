@@ -2,7 +2,7 @@
  * Created by tairo on 02/01/16.
  * * Study variables
  */
-public class Variavel {
+public class Variables {
 
     public static void main(String[] args) {
 

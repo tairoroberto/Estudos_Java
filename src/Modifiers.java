@@ -1,7 +1,7 @@
 /**
  * Created by tairo on 02/01/16.
  */
-public class Modificadores {
+public class Modifiers {
 
     public static void main(String[] args) {
 

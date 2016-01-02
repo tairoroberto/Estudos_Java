@@ -3,7 +3,7 @@
  *
  * primitive types in java
  */
-public class TiposPrimitivos {
+public class PrimitiveTypes {
 
     public static void main(String[] args) {
 
