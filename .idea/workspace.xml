@@ -63,8 +63,8 @@
       <file leaf-file-name="Operators.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/trmasolucoes/logica/Operators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5945946">
-              <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
+            <state vertical-scroll-proportion="0.7972973">
+              <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -800,7 +800,7 @@
       <option name="number" value="Default" />
       <updated>1451766105629</updated>
       <workItem from="1451766110882" duration="10467000" />
-      <workItem from="1451822844047" duration="6247000" />
+      <workItem from="1451822844047" duration="8820000" />
     </task>
     <task id="LOCAL-00001" summary="Variables and Primitive types">
       <created>1451770752636</created>
@@ -812,7 +812,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16714000" />
+    <option name="totallyTimeSpent" value="19287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -972,8 +972,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/trmasolucoes/logica/Operators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5945946">
-          <caret line="40" column="100" selection-start-line="40" selection-start-column="100" selection-end-line="40" selection-end-column="100" />
+        <state vertical-scroll-proportion="0.7972973">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
           <folding />
         </state>
       </provider>
