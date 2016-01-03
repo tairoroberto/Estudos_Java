@@ -1,11 +1,9 @@
 package br.com.trmasolucoes.logica;
 
-import java.util.DoubleSummaryStatistics;
-
 /**
  * Created by tairo on 02/01/16.
  *
- *
+ *Wrappers and static conversions
  */
 public class Wrappers {
     public static void main(String[] args) {
