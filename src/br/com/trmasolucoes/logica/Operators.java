@@ -28,6 +28,17 @@ public class Operators {
         x = y--; //post-decrement operator
 
 
+        /** Compare Operators*/
+        System.out.println(x == 6); //Equal
+        System.out.println(x != 6); // Difference
+        System.out.println(x > 6);  // Greater then
+        System.out.println(x >= 6); // Great or Equal than
+        System.out.println(x < 6);  // Less then
+        System.out.println(x <= 6); // Less or Equal than
+
+        Integer w = 6;
+        System.out.println(w instanceof Integer); // the variable w is a instance of class Integer
+        System.out.println("PI" instanceof String); // the string "PI" is a instance of class String
 
         System.out.println(x);
     }
