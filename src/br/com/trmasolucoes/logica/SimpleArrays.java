@@ -1,6 +1,7 @@
 package br.com.trmasolucoes.logica;
 
 import java.util.Arrays;
+import java.util.Random;
 
 /**
  * Created by tairo
@@ -37,5 +38,23 @@ public class SimpleArrays {
         //Accesing values in arrays
         Double[] values = {123.12, 321.21, 321.32};
         System.out.println("Double value: " + values[1].doubleValue());
+
+        /*Multidimencional arrays*/
+        String[][] twoPositions = {
+                {"Tairo", "M", "27"},
+                {"Luceli", "F", "29"}
+        };
+        System.out.println("Tairo's age: " + twoPositions[0][2]);
+
+        /* array of cards */
+        String[] faces = {"A","1","2","3","4","5","6","7","8","9","10","J","Q","K"};
+        String[] nipes = {"Espadas","Paus","Copas","Ouros"};
+        Random random = new Random();
+        int indiceFaces = random.nextInt(faces.length);
+        int indiceNipes = random.nextInt(nipes.length);
+        String card = faces[indiceFaces] + " " + nipes[indiceNipes];
+
+        System.out.println(card);
+
     }
 }

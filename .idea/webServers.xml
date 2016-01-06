@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="10a853ae-3d8f-43df-8b53-e1eda0abc4ef" name="qualim" url="http://ftp.nowsolucoes.com.br">
+        <fileTransfer host="ftp.nowsolucoes.com.br" port="21" rootFolder="/www/qualim" username="nowsolucoes">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
